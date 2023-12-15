@@ -12,8 +12,8 @@ def answer():
     add = add + num
  print(add)
 
-
-answer()
+if __name__ == "__main__": 
+ answer()
 
 
 

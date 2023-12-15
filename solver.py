@@ -11,7 +11,7 @@ def solver(factors,start,end):
  addition = sum(numlist)
  return(addition)
     
-
-print(solver([4,7,11],8912,40512 ))
+if __name__ == "__main__": 
+ print(solver([4,7,11],8912,40512 ))
      
     
